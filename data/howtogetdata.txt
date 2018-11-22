@@ -1,0 +1,4 @@
+Data can be downloaded from this Google Drive link, publicly accessible:
+https://drive.google.com/open?id=1eBFePbAgjd3uhQy8M8kdrKuZ0YLxxlID
+
+You should put the file "carInsurance_train.csv" in this data/ folder.
